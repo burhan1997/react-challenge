@@ -1,7 +1,9 @@
 # react-challenge
 
 ## Overview
-The Interactive Exercise Application is a web-based platform designed to offer users a series of interactive exercises, featuring multiple-choice questions and video-based content. It includes a progress indicator to visually track user advancement through the exercises.  For exercises that include timed questions, a countdown timer is integrated. If the timer expires before the exercise is completed, users are prompted with a message informing them that time is up, with an option to retry or restart the exercise. The platform is built with responsive design principles to ensure that it is accessible and functional across various devices and screen sizes
+- The Interactive Exercise Application is a web-based platform designed to offer users a series of interactive exercises, featuring multiple-choice questions and video-based content.
+- It includes a progress indicator to visually track user advancement through the exercises.  For exercises that include timed questions, a countdown timer is integrated. If the timer expires before the exercise is completed, users are prompted with a message informing them that time is up, with an option to retry or restart the exercise.
+- The platform is built with responsive design principles to ensure that it is accessible and functional across various devices and screen sizes
 
 ## Features Implemented
 - **Multiple Choice Question Component**: Displays questions with radio buttons for answer selection. Highlights the selected answer and shows the choice below the question.
@@ -12,8 +14,8 @@ The Interactive Exercise Application is a web-based platform designed to offer u
 
 
 
-- **MultipleChoiceQuestion.js**: Manages display and styling of multiple-choice questions.
-- **Navbar.js**: Implements navigation with 'Previous' and 'Next' buttons.
+- **MultipleChoiceQuestion.jsx**: Manages display and styling of multiple-choice questions.
+- **Navbar.jsx**: Implements navigation with 'Previous' and 'Next' buttons.
 - **$exerciseId.jsx**: Main page for loading and rendering exercises based on fetched data.
 
 ## Approach
@@ -40,24 +42,20 @@ The Interactive Exercise Application is a web-based platform designed to offer u
    ```bash
    git clone https://github.com/burhan1997/interactive-exercise-app.git
 
-Navigate into the project directory:
-
-cd interactive-exercise-app
 
 2. **Install dependencies:**
    ```bash
-npm install
+   npm install
 
 4. **Run the development server:**
      ```bash
-npm run dev
+   npm run dev
 
 5. **Open your browser and go to:**
+     ```bash
+   http://localhost:3000/exercise/{exerciseId}
 
-
-http://localhost:3000/exercise/{exerciseId}
-
-Conclusion
+## Conclusion
 This project illustrates a basic interactive exercise system with dynamic content rendering and progress tracking. Future enhancements could offer a more engaging and comprehensive user experience.
 
 Feel free to contribute or fork the repository to improve it further!
