@@ -41,20 +41,20 @@ The Interactive Exercise Application is a web-based platform designed to offer u
    git clone https://github.com/yourusername/interactive-exercise-app.git
 
 Navigate into the project directory:
-```bash
+
 cd interactive-exercise-app
 
 2. Install dependencies:
-```bash
+
 
 npm install
 3. Run the development server:
 
-```bash
+
 
 npm run dev
 4. Open your browser and go to:
-bash
+
 
 http://localhost:3000/exercise/{exerciseId}
 
