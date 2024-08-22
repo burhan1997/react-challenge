@@ -11,12 +11,10 @@ The Interactive Exercise Application is a web-based platform designed to offer u
 - **HTML Content Parsing**: Utilizes the DOMParser method to clean HTML tags from exercise titles and descriptions for a consistent UI.
 
 
-markdown
 
 - **MultipleChoiceQuestion.js**: Manages display and styling of multiple-choice questions.
 - **Navbar.js**: Implements navigation with 'Previous' and 'Next' buttons.
-- **ExercisePage.js**: Main page for loading and rendering exercises based on fetched data.
-- **loader.js**: Contains logic for fetching and parsing exercise data from a JSON file.
+- **$exerciseId.jsx**: Main page for loading and rendering exercises based on fetched data.
 
 ## Approach
 - **Component-based Architecture**: Employs reusable components for modular and maintainable code.
@@ -41,18 +39,19 @@ markdown
    ```bash
    git clone https://github.com/yourusername/interactive-exercise-app.git
 Navigate into the project directory:
-bash
+```bash
 
 cd interactive-exercise-app
-Install dependencies:
-bash
+2. Install dependencies:
+```bash
 
 npm install
-Run the development server:
-bash
+3. Run the development server:
+
+```bash
 
 npm run dev
-Open your browser and go to:
+4. Open your browser and go to:
 bash
 
 http://localhost:3000/exercise/{exerciseId}
