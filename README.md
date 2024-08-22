@@ -12,6 +12,14 @@
 - **Progress Indicator**: Shows a visual progress bar with the percentage of completion based on the user's current position in the exercise series.
 - **HTML Content Parsing**: Utilizes the DOMParser method to clean HTML tags from exercise titles and descriptions for a consistent UI.
 
+### Application Screenshots
+<img width="1508" alt="Ekran Resmi 2024-08-22 22 34 03" src="https://github.com/user-attachments/assets/c86ec789-f0de-46be-9934-4e11aac3440c">
+
+<img width="1511" alt="Ekran Resmi 2024-08-22 22 34 40" src="https://github.com/user-attachments/assets/96449074-987e-4760-a9ea-2742a1ba8548">
+
+<img width="1511" alt="Ekran Resmi 2024-08-22 22 34 54" src="https://github.com/user-attachments/assets/1b29c71a-3a95-49f3-ab14-87605b68dd45">
+
+<img width="1511" alt="Ekran Resmi 2024-08-22 22 35 24" src="https://github.com/user-attachments/assets/2d5154d3-5db4-4b79-a183-4ac6b18fb7e2">
 
 ## Approach
 - **Component-based Architecture**: Employs reusable components for modular and maintainable code.
