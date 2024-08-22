@@ -20,16 +20,9 @@
 - **Progress Indicator**: Calculates and displays user progress as a percentage.
 
 ## Potential Improvements
-- **State Persistence**: Implement localStorage or backend database integration for saving user progress.
-- **Responsive Design Enhancements**: Improve responsiveness for various screen sizes and devices.
 - **Quiz Summary & Results Page**: Add a summary page for overall progress and feedback.
-- **Timer and Exercise Deadline**: Introduce timers for timed challenges.
-- **Backend Integration**: Connect to a backend API for dynamic content and user progress storage.
 - **User Authentication**: Add user profiles for tracking progress across sessions.
 - **Advanced Animations**: Enhance user experience with animations for progress and transitions.
-- **Accessibility Enhancements**: Improve accessibility with ARIA labels and screen reader support.
-- **Multiple Exercise Types**: Expand exercise types to include fill-in-the-blank, drag-and-drop, and coding exercises.
-- **Leaderboard and Social Features**: Introduce leaderboards and social sharing to boost user engagement.
 
 ## Installation and Setup
 
