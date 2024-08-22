@@ -44,16 +44,15 @@ Navigate into the project directory:
 
 cd interactive-exercise-app
 
-2. Install dependencies:
-
-
+2. **Install dependencies:**
+   ```bash
 npm install
-3. Run the development server:
 
-
-
+4. **Run the development server:**
+     ```bash
 npm run dev
-4. Open your browser and go to:
+
+5. **Open your browser and go to:**
 
 
 http://localhost:3000/exercise/{exerciseId}
