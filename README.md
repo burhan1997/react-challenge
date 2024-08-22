@@ -35,13 +35,15 @@ The Interactive Exercise Application is a web-based platform designed to offer u
 - **Leaderboard and Social Features**: Introduce leaderboards and social sharing to boost user engagement.
 
 ## Installation and Setup
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/interactive-exercise-app.git
+
 Navigate into the project directory:
 ```bash
-
 cd interactive-exercise-app
+
 2. Install dependencies:
 ```bash
 
