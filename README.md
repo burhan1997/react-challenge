@@ -38,7 +38,7 @@ The Interactive Exercise Application is a web-based platform designed to offer u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/interactive-exercise-app.git
+   git clone https://github.com/burhan1997/interactive-exercise-app.git
 
 Navigate into the project directory:
 
