@@ -13,11 +13,6 @@
 - **HTML Content Parsing**: Utilizes the DOMParser method to clean HTML tags from exercise titles and descriptions for a consistent UI.
 
 
-
-- **MultipleChoiceQuestion.jsx**: Manages display and styling of multiple-choice questions.
-- **Navbar.jsx**: Implements navigation with 'Previous' and 'Next' buttons.
-- **$exerciseId.jsx**: Main page for loading and rendering exercises based on fetched data.
-
 ## Approach
 - **Component-based Architecture**: Employs reusable components for modular and maintainable code.
 - **Dynamic Content Loading**: Uses the `loader()` function to fetch exercise data dynamically from a JSON file.
